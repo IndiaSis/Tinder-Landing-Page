@@ -1,0 +1,52 @@
+
+.card-link{
+    background-color: white;
+}
+.gradient-background{
+    background:linear-gradient(300deg,#00bfff,#ff4c68,#ef8172);
+     
+}
+.gradient-background-2{
+    background:linear-gradient(300deg,#00bfff,#ff4c68,#ef8172);
+    font-weight: bold;
+    color: black;
+     
+}
+.lead{
+    font-size: 33px;
+    font-weight: bold;
+}
+.btn{
+    font-weight: bold;
+}
+#testimonial{
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+.front{
+    font-size: 24px;
+}
+.img{
+    height: 150px;
+    border-radius: 50%;
+    width: 150px;
+}
+.tinder
+{
+    text-decoration: none;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.button{
+    background-color: greenyellow;
+    font-family: bold;
+    font-style: italic;
+}
+
